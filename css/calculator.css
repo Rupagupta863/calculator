@@ -34,7 +34,8 @@
 }
 .display input{
     flex: 1;
-    padding: 10px;
+    font-size: 1.5em;
+    padding: 5px;
 }
 
 
@@ -56,6 +57,7 @@
     }
     .display input{
         flex: 1;
+        font-size: 1.5em;
     }
     
 }
